@@ -47,7 +47,7 @@ h3{
 {
     position: fixed;
     float: right;
-    bottom: 0px;
+    bottom: 20px;
     right: 30px;
     width: 7%;
 }
@@ -55,7 +55,7 @@ h3{
 {
     position: fixed;
     float: right;
-    bottom: 0px;
+    bottom: 20px;
     right: 20px;
     width: 5%;
 }
@@ -63,7 +63,7 @@ h3{
 {
     position: fixed;
     float: right;
-    bottom: 0px;
+    bottom: 20px;
     right: 10px;
     width: 2%;
 }
