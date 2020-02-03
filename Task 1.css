@@ -1,0 +1,83 @@
+body
+{
+    background-image : url('Background.png');
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    font-size: 350%;
+    margin-left: 5%;
+}
+h3{
+    text-indent: 0%;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;    
+    font-size: 150%;
+}
+#P1
+{
+    float: left;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 22%;
+    margin-left: 5%;
+    text-indent: 20px;
+    font-size: 80%;
+}
+#P2
+{
+    float: left;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+    width: 22%;
+    font-size: 80%;
+}
+#P3
+{
+    float: right;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 8%;
+    width: 22%;
+    font-size: 80%;
+}
+#fb_img
+{
+    position: fixed;
+    float: right;
+    bottom: 0px;
+    right: 30px;
+    width: 7%;
+}
+#git_img
+{
+    position: fixed;
+    float: right;
+    bottom: 0px;
+    right: 20px;
+    width: 5%;
+}
+#locator_img
+{
+    position: fixed;
+    float: right;
+    bottom: 0px;
+    right: 10px;
+    width: 2%;
+}
+#menu_img
+{
+    position: fixed;
+    float: right;
+    top: 20px;
+    right: 20px;
+}
+#arrow
+{
+    position: fixed;
+    float: left;
+    bottom: 50px;
+    right: 50%;
+}
